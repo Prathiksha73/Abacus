@@ -12,3 +12,4 @@ class TestProtectedAPI(APIView):
             "message": "JWT authentication successful",
             "user": request.user.username
         })
+#views
